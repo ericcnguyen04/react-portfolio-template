@@ -1,7 +1,7 @@
 const logotext = "Eric Nguyen";
 const meta = {
     title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "Where am i",
 };
 
 const introdata = {
@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "A full-stack student with passions and ambitions. Upholds promises to contribute impactful creations",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2F8be2DR&psig=AOvVaw1if2dpplIwQr2SJVnfqdcR&ust=1699310106677000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjP8cv1rYIDFQAAAAAdAAAAABAE",
 };
 
 const dataabout = {
