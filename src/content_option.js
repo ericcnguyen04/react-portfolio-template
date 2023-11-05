@@ -140,7 +140,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "ericc.win@gmail.com",
     YOUR_FONE: "(404)933-7143",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Please don't hesitate to reach out if you have any questions, comments, or concerns",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -149,10 +149,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/ericcnguyen04",
+    // facebook: "https://facebook.com",
+    linkedin: "https://www.linkedin.com/in/eric-nguyen-3970b0229/",
+    // twitter: "https://twitter.com",
 };
 export {
     meta,
