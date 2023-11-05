@@ -1,3 +1,5 @@
+import pic from "./assets/images/cyber pic.jpeg"
+
 const logotext = "Eric Nguyen";
 const meta = {
     title: "John Doe",
@@ -12,7 +14,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "A full-stack student with passions and ambitions. Upholds promises to contribute impactful creations",
-    your_img_url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2F8be2DR&psig=AOvVaw1if2dpplIwQr2SJVnfqdcR&ust=1699310106677000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjP8cv1rYIDFQAAAAAdAAAAABAE",
+    your_img_url: pic,
 };
 
 const dataabout = {
@@ -136,7 +138,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "ericc.win@gmail.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
