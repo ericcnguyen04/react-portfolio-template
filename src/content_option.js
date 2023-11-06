@@ -1,8 +1,8 @@
 import pic from "./assets/images/cyber pic.jpeg"
 
-const logotext = "Eric Nguyen";
+const logotext = "Error";
 const meta = {
-    title: "John Doe",
+    title: "Eric Nguyen's Portfolio",
     description: "Where am i",
 };
 
@@ -22,8 +22,8 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "Software Engineer Fellow",
+        where: "General Assembly",
         date: "2020",
     },
     {
