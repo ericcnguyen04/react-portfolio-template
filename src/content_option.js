@@ -24,7 +24,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Software Engineer Fellow",
         where: "General Assembly",
-        date: "2020",
+        date: "Nov 2022 - Feb 2023",
     },
     {
         jobtitle: "Designer of week",
