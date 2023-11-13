@@ -27,8 +27,8 @@ const worktimeline = [{
         date: "Nov 2022 - Feb 2023",
     },
     {
-        jobtitle: "Meadowcreek",
-        where: "Jamalya",
+        jobtitle: "Web Developer Apprentice",
+        where: "Meadowcreek high",
         date: "2019",
     },
     {
