@@ -32,9 +32,9 @@ const worktimeline = [{
         date: "Aug 2020 - May 2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "IT Help Desk",
+        where: "Georgia Gwinnett College",
+        date: "Jan 2024 - May 2024",
     },
 ];
 
