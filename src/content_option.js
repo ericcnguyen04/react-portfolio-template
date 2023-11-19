@@ -69,8 +69,8 @@ const services = [{
         description: "Developing applications on iOS to optimize daily life",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Video Editing",
+        description: "Create and share content on code or ideas",
     },
 ];
 
