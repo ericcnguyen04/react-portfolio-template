@@ -39,19 +39,19 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
         name: "Javascript",
-        value: 80,
+        value: 95,
     },
     {
         name: "React",
+        value: 90,
+    },
+    {
+        name: "Python",
+        value: 80,
+    },
+    {
+        name: "Java",
         value: 60,
     },
     {
