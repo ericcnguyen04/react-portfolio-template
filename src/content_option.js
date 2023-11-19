@@ -18,8 +18,8 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "My Character",
+    aboutme: "An individual who loves to see signs of self improvement in health, education, finances, and career! Someone who will try their best to make the most out of any situation and collaborate with others.",
 };
 const worktimeline = [{
         jobtitle: "Software Engineer Fellow",
