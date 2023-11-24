@@ -36,6 +36,11 @@ const worktimeline = [{
         where: "Georgia Gwinnett College",
         date: "Jan 2024 - May 2024",
     },
+    {
+        jobtitle: "Back End Developer",
+        where: "iVueRobotics",
+        date: "November 2023 - Present",
+    }
 ];
 
 const skills = [{
