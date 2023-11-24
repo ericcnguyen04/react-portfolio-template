@@ -143,9 +143,9 @@ const contactConfig = {
     description: "Please don't hesitate to reach out if you have any questions, comments, or concerns",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_saufldv",
+    YOUR_TEMPLATE_ID: "template_famkt64",
+    YOUR_USER_ID: "BHdZkYWw7238i5vxX",
 };
 
 const socialprofils = {
